@@ -2,7 +2,7 @@
 // Você pode escrever seu código neste editor
 if keyboard_check(vk_up){
 	sprite_index = spr_nave_movendo;
-	speed = 2; 	
+	speed = 2.3; 	
 }else if keyboard_check(vk_down){
 	sprite_index = spr_nave_movendo;
 	speed = -2; 	
