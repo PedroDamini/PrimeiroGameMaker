@@ -6,5 +6,7 @@
     {"name":"Objetos","order":9,"path":"folders/Objetos.yy",},
     {"name":"Cenas","order":10,"path":"folders/Cenas.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_nave_movendo","order":1,"path":"sprites/spr_nave_movendo/spr_nave_movendo.yy",},
+  ],
 }
