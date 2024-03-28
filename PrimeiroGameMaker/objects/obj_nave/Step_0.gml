@@ -20,5 +20,4 @@ if keyboard_check(vk_left){
 }
 
 image_angle = direction;
-
-move_wrap(true, true, 0)
+move_wrap(true, true, 0);
