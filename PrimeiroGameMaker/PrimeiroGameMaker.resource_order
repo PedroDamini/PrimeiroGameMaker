@@ -9,8 +9,9 @@
   "ResourceOrderSettings":[
     {"name":"obj_asteroide_grande","order":2,"path":"objects/obj_asteroide_grande/obj_asteroide_grande.yy",},
     {"name":"obj_asteroide_medio","order":3,"path":"objects/obj_asteroide_medio/obj_asteroide_medio.yy",},
-    {"name":"obj_nave_projetil","order":1,"path":"objects/obj_nave_projetil/obj_nave_projetil.yy",},
     {"name":"obj_asteroide_pequeno","order":4,"path":"objects/obj_asteroide_pequeno/obj_asteroide_pequeno.yy",},
+    {"name":"obj_nave_projetil","order":1,"path":"objects/obj_nave_projetil/obj_nave_projetil.yy",},
+    {"name":"obj_parente_asteroide","order":5,"path":"objects/obj_parente_asteroide/obj_parente_asteroide.yy",},
     {"name":"spr_asteroide_grande","order":3,"path":"sprites/spr_asteroide_grande/spr_asteroide_grande.yy",},
     {"name":"spr_asteroide_medio","order":4,"path":"sprites/spr_asteroide_medio/spr_asteroide_medio.yy",},
     {"name":"spr_asteroide_pequeno","order":5,"path":"sprites/spr_asteroide_pequeno/spr_asteroide_pequeno.yy",},

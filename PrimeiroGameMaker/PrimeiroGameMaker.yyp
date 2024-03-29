@@ -26,9 +26,10 @@
   "resources":[
     {"id":{"name":"obj_asteroide_grande","path":"objects/obj_asteroide_grande/obj_asteroide_grande.yy",},},
     {"id":{"name":"obj_asteroide_medio","path":"objects/obj_asteroide_medio/obj_asteroide_medio.yy",},},
+    {"id":{"name":"obj_asteroide_pequeno","path":"objects/obj_asteroide_pequeno/obj_asteroide_pequeno.yy",},},
     {"id":{"name":"obj_nave_projetil","path":"objects/obj_nave_projetil/obj_nave_projetil.yy",},},
     {"id":{"name":"obj_nave","path":"objects/obj_nave/obj_nave.yy",},},
-    {"id":{"name":"obj_asteroide_pequeno","path":"objects/obj_asteroide_pequeno/obj_asteroide_pequeno.yy",},},
+    {"id":{"name":"obj_parente_asteroide","path":"objects/obj_parente_asteroide/obj_parente_asteroide.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_asteroide_grande","path":"sprites/spr_asteroide_grande/spr_asteroide_grande.yy",},},
     {"id":{"name":"spr_asteroide_medio","path":"sprites/spr_asteroide_medio/spr_asteroide_medio.yy",},},
