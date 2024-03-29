@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_nave_projetil",
+  "%Name":"obj_asteroide_grande",
   "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_asteroide_grande","path":"objects/obj_asteroide_grande/obj_asteroide_grande.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_nave_projetil",
+  "name":"obj_asteroide_grande",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_nave_projetil",
-    "path":"sprites/spr_nave_projetil/spr_nave_projetil.yy",
+    "name":"spr_asteroide_grande",
+    "path":"sprites/spr_asteroide_grande/spr_asteroide_grande.yy",
   },
   "spriteMaskId":null,
   "visible":true,
