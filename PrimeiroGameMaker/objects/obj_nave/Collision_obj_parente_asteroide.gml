@@ -1,7 +1,11 @@
 /// @description Inserir descrição aqui
-if alarm[0] <= 0{
-	vida -= 1;	
-
+if alarm[0] <= 0{	
+	if escudo == true {
+		escudo = false;
+	}else {
+		vida -= 1;
+	}
+	
 	with (other) {
 		vida -= 1;
 	}

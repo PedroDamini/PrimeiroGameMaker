@@ -1,3 +1,2 @@
 /// @description Inserir descrição aqui
-randomize();
-alarm[0] = 600;
+escudo = false
