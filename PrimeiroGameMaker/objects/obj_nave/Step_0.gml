@@ -43,6 +43,7 @@ if keyboard_check_pressed(vk_space){
 	_inst.speed = 10.5;
 	_inst.direction = direction;
 	_inst.image_angle = direction;
+	_inst.dano = dano_nave;
 }
 
 direction += direc;
