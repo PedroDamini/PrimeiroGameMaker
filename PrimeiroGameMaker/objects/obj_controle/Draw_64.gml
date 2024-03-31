@@ -1,7 +1,7 @@
 /// @description Inserir descrição aqui
 var _c = make_color_rgb(131, 68, 87);
-var _largura = display_get_width();
-var _altura = display_get_height();
+var _largura = window_get_width();
+var _altura = window_get_height();
 
 if room == rm_jogo {
 	draw_set_font(fnt_basica);

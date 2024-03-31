@@ -67,3 +67,7 @@ if alarm[0] > 0{
 if vida <= 0 {
 	game_restart();
 }
+
+if global.pont >= 100{
+	room_goto(rm_final);
+}
