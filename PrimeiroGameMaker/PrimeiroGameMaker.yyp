@@ -38,6 +38,7 @@
     {"id":{"name":"obj_nave_projetil","path":"objects/obj_nave_projetil/obj_nave_projetil.yy",},},
     {"id":{"name":"obj_nave","path":"objects/obj_nave/obj_nave.yy",},},
     {"id":{"name":"obj_parente_asteroide","path":"objects/obj_parente_asteroide/obj_parente_asteroide.yy",},},
+    {"id":{"name":"obj_criar","path":"objects/obj_criar/obj_criar.yy",},},
     {"id":{"name":"rm_final","path":"rooms/rm_final/rm_final.yy",},},
     {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},

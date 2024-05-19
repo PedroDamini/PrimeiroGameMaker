@@ -17,6 +17,7 @@
     {"name":"obj_melhoria_projetil","order":8,"path":"objects/obj_melhoria_projetil/obj_melhoria_projetil.yy",},
     {"name":"obj_nave_projetil","order":1,"path":"objects/obj_nave_projetil/obj_nave_projetil.yy",},
     {"name":"obj_parente_asteroide","order":5,"path":"objects/obj_parente_asteroide/obj_parente_asteroide.yy",},
+    {"name":"obj_criar","order":10,"path":"objects/obj_criar/obj_criar.yy",},
     {"name":"rm_final","order":1,"path":"rooms/rm_final/rm_final.yy",},
     {"name":"rm_menu","order":2,"path":"rooms/rm_menu/rm_menu.yy",},
     {"name":"snd_explosao_asteroide","order":3,"path":"sounds/snd_explosao_asteroide/snd_explosao_asteroide.yy",},
