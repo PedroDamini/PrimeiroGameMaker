@@ -3,5 +3,5 @@
 if (criar){
 	instance_create_layer(random_range(10, room_width), random_range(10, room_height), "Instances", obj_asteroide_grande);
 	criar = false;
-	alarm = 350;
+	alarm = 410;
 }
